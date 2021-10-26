@@ -1,0 +1,7 @@
+C:\Users\hardy\source\repos\Assignment2_UnitTest\Assignment2_UnitTest\bin\Debug\Assignment2_UnitTest.exe.config
+C:\Users\hardy\source\repos\Assignment2_UnitTest\Assignment2_UnitTest\bin\Debug\Assignment2_UnitTest.exe
+C:\Users\hardy\source\repos\Assignment2_UnitTest\Assignment2_UnitTest\bin\Debug\Assignment2_UnitTest.pdb
+C:\Users\hardy\source\repos\Assignment2_UnitTest\Assignment2_UnitTest\obj\Debug\Assignment2_UnitTest.csprojAssemblyReference.cache
+C:\Users\hardy\source\repos\Assignment2_UnitTest\Assignment2_UnitTest\obj\Debug\Assignment2_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\hardy\source\repos\Assignment2_UnitTest\Assignment2_UnitTest\obj\Debug\Assignment2_UnitTest.exe
+C:\Users\hardy\source\repos\Assignment2_UnitTest\Assignment2_UnitTest\obj\Debug\Assignment2_UnitTest.pdb

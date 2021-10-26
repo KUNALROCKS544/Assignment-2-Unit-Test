@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Rectangle
+namespace Assignment2_UnitTest
 {
     class Program
     {
